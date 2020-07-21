@@ -4,16 +4,9 @@
 
 E-mail: li.zhenye@qq.com; zhenye@njfu.edu.cn.
 
-### News
-
-Landmark Regression with computer vision.
-
 ### Research Interests
 
-- Computer Vision, 
-- Hyperspectral Analysis, 
-- Deep Learning,
-- Pattern Recognition
+Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
 
 ### Research Achievements
 
