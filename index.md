@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Li Zhenye's Home Page
 
-You can use the [editor on GitHub](https://github.com/Karllzy/karllzy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Li   Zhenye**, Master Student, College of Mechanical and Electronic Engineering, Nanjing Forestry University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: li.zhenye@qq.com; zhenye@njfu.edu.cn.
 
-### Markdown
+### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Landmark Regression with computer vision.
 
-```markdown
-Syntax highlighted code block
+### Research Interests
 
-# Header 1
-## Header 2
-### Header 3
+- Computer Vision, 
+- Hyperspectral Analysis, 
+- Deep Learning,
+- Pattern Recognition
 
-- Bulleted
-- List
+### Research Achievements
 
-1. Numbered
-2. List
+**_From 09/2015 to 09/2019 (Bachelor)_**
+- 李振业,陈婷,陈静.基于遗传算法的旅游最优路径探究[J].电脑知识与技术,2018,14(34):181-183+188.
+- 王丹,邱文珍,李振业.基于SolidWorks可调节伞骨设计[J].电脑知识与技术,2018,14(26):229-231.
 
-**Bold** and _Italic_ and `Code` text
+**_From 2019 to Now_**
+- 倪超,李振业,张雄,赵岭,朱婷婷,蒋雪松.基于短波近红外高光谱和深度学习的籽棉地膜分选算法[J].农业机械学报,2019,50(12):170-179.
+- Ni, Chao, et al. "Online Sorting of the Film on Cotton Based on Deep Learning and Hyperspectral Imaging." IEEE Access 8 (2020): 93028-93038.
 
-[Link](url) and ![Image](src)
+### Awards
+
+**_From 09/2015 to 09/2019 (Bachelor)_**
+- 第九届江苏省大学生机器人大赛一等奖
+- 第八届江苏省机器人大赛二等奖
+- 华东区CAD应用技能大赛三等奖
+- 教育部第十二届“西门子杯”中国智能制造挑战赛二等奖
+- 第十五届江苏省五一数学建模竞赛一等奖
+- 第三届全国大学生军事数学建模竞赛二等奖
+- 美国大学生数学建模大赛三等奖
+- 第九届Mathor Cup高校数学建模挑战赛三等奖
+
+**_From 09/2019 to Now_**
+- “挑战杯”全国大学生课外学术作品竞赛江苏省特等奖
+- “挑战杯”全国大学生课外学术作品竞赛全国三等奖
+
+### For CV in Papers
+```text
+Li Zhenye was born in Yangzhou, Jiangsu, China in 1997. 
+He graduated from Nanjing Forestry University in 2019 and obtained a bachelor's degree in engineering. 
+He is currently pursuing a master's degree at Nanjing Forestry University. 
+His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Karllzy/karllzy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
