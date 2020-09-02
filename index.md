@@ -15,8 +15,9 @@ Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
 - 王丹,邱文珍,李振业.基于SolidWorks可调节伞骨设计[J].电脑知识与技术,2018,14(26):229-231.
 
 **_From 2019 to Now_**
-- 倪超,李振业,张雄,赵岭,朱婷婷,蒋雪松.基于短波近红外高光谱和深度学习的籽棉地膜分选算法[J].农业机械学报,2019,50(12):170-179.
-- Ni, Chao, et al. "Online Sorting of the Film on Cotton Based on Deep Learning and Hyperspectral Imaging." IEEE Access 8 (2020): 93028-93038.
+- 倪超,**李振业**,张雄,赵岭,朱婷婷,蒋雪松.基于短波近红外高光谱和深度学习的籽棉地膜分选算法[J].农业机械学报,2019,50(12):170-179.
+- Ni, Chao, **Zhenye Li**. "Online Sorting of the Film on Cotton Based on Deep Learning and Hyperspectral Imaging." IEEE Access 8 (2020): 93028-93038.
+- Shi, Jiahao, **Zhenye Li**, Tingting Zhu, Dongyi Wang, and Chao Ni. "Defect Detection of Industry Wood Veneer Based on NAS and Multi-Channel Mask R-CNN." Sensors 20, no. 16 (2020): 4398.
 
 ### Awards
 
